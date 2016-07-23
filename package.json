@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scripni/chef/issues"
   },
-  "homepage": "https://github.com/scripni/chef#readme"
+  "homepage": "https://github.com/scripni/chef#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
