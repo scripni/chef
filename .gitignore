@@ -45,7 +45,7 @@ obj/
 project.lock.json
 
 # web build output
-wwwroot/js/*.min.js
+wwwroot/js/*.js
 wwwroot/css/*.min.css
 
 # bower packages
