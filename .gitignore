@@ -43,3 +43,7 @@ obj/
 
 # .net lock
 project.lock.json
+
+# web build output
+wwwroot/js/*.min.js
+wwwroot/css/*.min.css
