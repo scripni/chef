@@ -47,3 +47,6 @@ project.lock.json
 # web build output
 wwwroot/js/*.min.js
 wwwroot/css/*.min.css
+
+# bower packages
+bower_components/
